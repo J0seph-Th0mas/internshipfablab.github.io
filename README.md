@@ -23,6 +23,7 @@
 # Day 4
 * And I created my first 3D design which is a dice.
 * and I printed this dice and the pic is uploaded below
-* https://github.com/josephthomas8402/josephthomas8402.github.io/blob/master/pic1.html
+* ![dice](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/bfcceb21-f5fb-4983-8ba7-aa18d864e3ef)
+
 # end of day 4
 
