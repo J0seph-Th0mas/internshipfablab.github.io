@@ -133,13 +133,11 @@ one pin is in to 9 pin of Arduino and other is GND of Arduino
 
 * Step 7: Play the Audio
 
-# ***
-
 Now , It's Ready...............................
 Click Reset button to play audio every time.
 The OUTPUT sound is very Low so you can use woofer or amplifier for batter Output.
 
-# end of day 6
+# ***
 
 
 
