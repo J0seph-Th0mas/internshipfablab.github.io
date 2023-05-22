@@ -43,17 +43,18 @@ So here is easiest and cheapest way to interface SD card with arduino . you can 
 you can play any type of sound ,music and recording but that audio will be in to .wav file. If it is in .mp3 or any other audio type then we will convert it into .wav file.
 
 * Step 1: Components & Requirements
+```
   arduino uno
   micro SD card Adapter module
   micro SD
   Card Reader
   Speaker or earphone speaker
   woofer or amplifier
+  ```
   
 * Step 2: Convert Audio to .wav
-
-
-  Go to the Link to convert the audio into .wav .
+```
+ Go to the Link to convert the audio into .wav .
 http://audio.online-convert.com/convert-to-wav
 Go to The Link
 Upload your audio you want to convert to WAV
@@ -64,19 +65,19 @@ Click on " Show advanced options ".
 PCM format " unsigned 8 bit ".
 Convert file.
 At next page click on "direct download link"
-
+```
 * Step 3: Prepare SD Card
-
+```
  Open your SD card Drive .
 Past the Audio file that we have converted in .wav file
 Rename the file to "test.wav".
-
+```
 * Step 4: Add Library in Arduino
-
+```
 Open The arduino Software
 Click on then Sketch >> Include Library >> Add zip Library
 Select "TMRpcm.zip" that is in zip folder.
-
+```
 * Step 5: Upload the Codes
 
 Connect your arduino with pc and upload the Codes.
