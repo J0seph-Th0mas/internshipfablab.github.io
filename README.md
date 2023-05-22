@@ -118,7 +118,8 @@ void loop() {
 
 Insert the card in micro sd adapter module.
 Connect the circuit as given below.
-![Uploading circuit sd addeptor.jpg…]()
+![circuit sd addeptor](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/0982e983-a8ff-4a02-91a0-eab9c788afc8)
+
 
 ```
 CS ---------------------->> 10
