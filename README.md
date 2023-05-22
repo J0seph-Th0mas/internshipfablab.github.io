@@ -56,9 +56,11 @@ you can play any type of sound ,music and recording but that audio will be in to
   ```
   
 * Step 2: Convert Audio to .wav
+
+ Go to the Link to convert the 
+[audio into .wav](http://audio.online-convert.com/convert-to-wav)
+
 ```
- Go to the Link to convert the audio into .wav .
-(http://audio.online-convert.com/convert-to-wav)
 Go to The Link
 Upload your audio you want to convert to WAV
 Change bit resolution to " 8bit ".
