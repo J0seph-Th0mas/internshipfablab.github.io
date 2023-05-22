@@ -1,29 +1,33 @@
 # 9/5/23
-* This day I was able to learn about wht AAC devices are and their functionality in the lives of people especially the people who have disabilities.
+* learned wht AAC devices are and their functionality in the lives of people especially the people who have disabilities.
 * I was able to think a viable project where people can actually learn as well as a useful device which will enhance their brain functionality.
 * Did a huge amount of research on AAC devices.
-* Had a meeting with the boss of Evocube technologies
+* Had a meeting with the CEO of Evocube technologies
 # ***
 
 # 10/5/23
-* well, on this day I mde a presentation on the AAC device which I am going to develop.
+* made a presentation on the AAC device which I am going to develop.
 * it is mid tech device named TalkBox which is communication device which uses tactile feeback to give auditory output
 * after the presentation, i was told to start making designs for the project. 
-* to make designs for this project, I had to install Autodesk fusion 360, wher I could make 3D designs for my project.(took a very long time to download)
-* After that i downloaded ultimaker cura which is the 3D printing machine in the lab.
-* Downloaded a few 3d models from from the internet to trty out in the 3D printer but I was unable to due to time constraints
+* to make designs for this project, installed Autodesk fusion 360 to make 3D designs for my project
+* downloaded ultimaker cura which is the 3D printing machine in the lab.
 * [Talk Box(AAC Device).pptx](https://github.com/josephthomas8402/josephthomas8402.github.io/files/11510153/Talk.Box.AAC.Device.pptx)
 # ***
 
 # 11/5/23
-* On day 3 i started to learn about autdesk fusion 360.
-* i download the student version of fusion 360 and and started to learn about how to design products in fusion 360
-* i refered to youyube videos and the links are https://youtu.be/A5bc9c3S12g https://youtu.be/HXRMzJWo0-Q and https://youtu.be/zS8dYA_Iluc
+* started to learn about autdesk fusion 360.
+* downloaded the student version of fusion 360 and and started to learn about how to design products in fusion 360
+* refered to youyube videos and the links are
+* ```
+  (https://youtu.be/A5bc9c3S12g)
+  (https://youtu.be/HXRMzJWo0-Q)
+  (https://youtu.be/zS8dYA_Iluc)
+  ```
 # ***
 
 # 12/5/23
-* And I created my first 3D design which is a dice.
-* and I printed this dice and the pic is uploaded below
+* created my first 3D design which is a dice.
+* printed this dice and the pic is uploaded below
 * ![dice](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/bfcceb21-f5fb-4983-8ba7-aa18d864e3ef)
 # ***
 
@@ -54,7 +58,7 @@ you can play any type of sound ,music and recording but that audio will be in to
 * Step 2: Convert Audio to .wav
 ```
  Go to the Link to convert the audio into .wav .
-http://audio.online-convert.com/convert-to-wav
+(http://audio.online-convert.com/convert-to-wav)
 Go to The Link
 Upload your audio you want to convert to WAV
 Change bit resolution to " 8bit ".
