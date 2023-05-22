@@ -18,10 +18,9 @@
 * started to learn about autdesk fusion 360.
 * downloaded the student version of fusion 360 and and started to learn about how to design products in fusion 360
 * refered to youyube videos and the links are
-* 
-  [video1](https://youtu.be/A5bc9c3S12g)
-  [video2](https://youtu.be/HXRMzJWo0-Q)
-  [video3](https://youtu.be/zS8dYA_Iluc)
+* [video1](https://youtu.be/A5bc9c3S12g)
+* [video2](https://youtu.be/HXRMzJWo0-Q)
+* [video3](https://youtu.be/zS8dYA_Iluc)
   
 # ***
 
