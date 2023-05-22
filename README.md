@@ -29,7 +29,81 @@
 # end of day 4
 
 # Day 5(15/5/23)
-
 * Started designing the product using Fusion 360 and I was able to complete the design within tht day.
 * ![sample](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/33ecd274-ac14-4b3f-beea-7336abbf68b9)
-*
+# end of day 5
+
+# Day 6(22/5/23)
+* did a sample Audio Player Using Arduino With Micro SD Card
+* ![WhatsApp Image 2023-05-22 at 15 57 09](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/8dedb17e-b6fa-4a1f-95c5-df673cf4c618)
+* Many of People want to interface the SD card with arduino or want some audio output via arduino.
+
+So here is easiest and cheapest way to interface SD card with arduino . you can use the audio output from arduino via a switch or sensor .
+
+you can play any type of sound ,music and recording but that audio will be in to .wav file. If it is in .mp3 or any other audio type then we will convert it into .wav file.
+
+* Step 1: Components & Requirements
+  arduino uno
+  micro SD card Adapter module
+  micro SD
+  Card Reader
+  Speaker or earphone speaker
+  woofer or amplifier
+  
+* Step 2: Convert Audio to .wav
+
+
+  Go to the Link to convert the audio into .wav .
+http://audio.online-convert.com/convert-to-wav
+Go to The Link
+Upload your audio you want to convert to WAV
+Change bit resolution to " 8bit ".
+Change sampling rate to " 16000Hz ".
+Change audio channels " mono " .
+Click on " Show advanced options ".
+PCM format " unsigned 8 bit ".
+Convert file.
+At next page click on "direct download link"
+
+* Step 3: Prepare SD Card
+
+ Open your SD card Drive .
+Past the Audio file that we have converted in .wav file
+Rename the file to "test.wav".
+
+* Step 4: Add Library in Arduino
+
+Open The arduino Software
+Click on then Sketch >> Include Library >> Add zip Library
+Select "TMRpcm.zip" that is in zip folder.
+
+* Step 5: Upload the Codes
+
+Connect your arduino with pc and upload the Codes.
+
+* Step 6: Circuit Connections
+
+Insert the card in micro sd adapter module.
+Connect the circuit as given below.
+
+CS ---------------------->> 10
+SCK ---------------------->> 13
+MOSI -------------------->> 11
+MISO--------------------->> 12
+VCC --------------------->> +5v
+GND--------------------->> Arduino's Ground
+
+Speaker Connection
+one pin is in to 9 pin of Arduino and other is GND of Arduino
+
+* Step 7: Play the Audio
+
+Now , It's Ready...............................
+Click Reset button to play audio every time.
+The OUTPUT sound is very Low so you can use woofer or amplifier for batter Output.
+
+# end of day 6
+
+
+
+
