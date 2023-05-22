@@ -85,6 +85,8 @@ Connect your arduino with pc and upload the Codes.
 
 Insert the card in micro sd adapter module.
 Connect the circuit as given below.
+![Uploading circuit sd addeptor.jpg…]()
+
 
 CS ---------------------->> 10
 SCK ---------------------->> 13
