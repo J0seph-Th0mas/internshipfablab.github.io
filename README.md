@@ -36,10 +36,10 @@
 # ***
 
 # 19/05/23
-
 * A meeting with a former alumni was scheduled to teach us about the basics of the electronics side of the device.
 * we were given links and relevant resources to prototype our device.
 * we were given valuable tips on how to go about doing that.
+# ***
 
 # 22/5/23
 * did a sample Audio Player Using Arduino With Micro SD Card
@@ -141,7 +141,7 @@ one pin is in to 9 pin of Arduino and other is GND of Arduino
 
 Now , It's Ready...............................
 Click Reset button to play audio every time.
-The OUTPUT sound is very Low so you can use woofer or amplifier for batter Output.
+The OUTPUT sound is very Low.
 
 # ***
 
