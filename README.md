@@ -35,6 +35,12 @@
 * ![sample](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/33ecd274-ac14-4b3f-beea-7336abbf68b9)
 # ***
 
+# 19/05/23
+
+* A meeting with a former alumni was scheduled to teach us about the basics of the electronics side of the device.
+* we were given links and relevant resources to prototype our device.
+* we were given valuable tips on how to go about doing that.
+
 # 22/5/23
 * did a sample Audio Player Using Arduino With Micro SD Card
 * ![WhatsApp Image 2023-05-22 at 15 57 09](https://github.com/josephthomas8402/josephthomas8402.github.io/assets/93570559/8dedb17e-b6fa-4a1f-95c5-df673cf4c618)
