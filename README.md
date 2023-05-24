@@ -145,6 +145,10 @@ The OUTPUT sound is very Low.
 
 # ***
 
+# 24/5/23
+* Updated the same project but with multiple audios playing simultaneously and one by one
+* Successfully completed the task
+
 
 
 
