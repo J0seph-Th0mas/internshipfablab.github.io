@@ -168,6 +168,7 @@ Buzzer
 ```
 * Circuit:- 
 ![RFID1](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/e3e1353b-681b-4e43-ac55-34ad72a52c30)
+
 ```
 * Code:- 
 //RFID
@@ -248,6 +249,7 @@ void loop()
     noTone(BUZZER);
   }
 } 
+
 ```
 * Successfully completed the project
 # ***
