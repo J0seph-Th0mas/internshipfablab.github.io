@@ -155,7 +155,7 @@ The OUTPUT sound is very Low.
 * So I did a small project based on RFID, which is a door locking and unlocking system..
 ![RFID](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/e68e440f-b00e-43dc-9bee-fdd266e49eee)
 * video of RFID workin is given below
-[click here](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/7fbfa10f-dc38-4e51-b44c-c6d373cf8ba5) to play the video
+* [click here](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/7fbfa10f-dc38-4e51-b44c-c6d373cf8ba5) to play the video
 ```
 * Materials:- 
 Arduino UNO 
@@ -168,9 +168,8 @@ Buzzer
 ```
 * Circuit:- 
 ![RFID1](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/e3e1353b-681b-4e43-ac55-34ad72a52c30)
-
-* Code:- 
 ```
+* Code:- 
 //RFID
 #include <SPI.h>
 #include <MFRC522.h>
