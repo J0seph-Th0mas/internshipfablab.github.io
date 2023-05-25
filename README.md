@@ -154,9 +154,8 @@ The OUTPUT sound is very Low.
 * As my project is RFID based, it is important that I leran what RFID is and how it works.
 * So I did a small project based on RFID, which is a door locking and unlocking system..
 ![RFID](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/e68e440f-b00e-43dc-9bee-fdd266e49eee)
-
-
-[RFID](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/7fbfa10f-dc38-4e51-b44c-c6d373cf8ba5)
+* video of RFID workin is given below
+[click here](https://github.com/J0seph-Th0mas/internshipfablab.github.io/assets/93570559/7fbfa10f-dc38-4e51-b44c-c6d373cf8ba5) to play the video
 ```
 * Materials:- 
 Arduino UNO 
